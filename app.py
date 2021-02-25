@@ -25,7 +25,7 @@ if devel == 1:
 
 else:
     
-    DATABASE_URL = 'postgres://kdlcfrvcmbzozv:1dbdbbde75d4f5191b002f970d6d55f2a670c27da5aec4ca1320acad3922f8e6@ec2-3-231-194-96.compute-1.amazonaws.com:5432/dd5o6tm4njut7v'
+    DATABASE_URL = 'xxxxxxxxxxxxx'
     conn = psycopg2.connect(DATABASE_URL, sslmode='require')
 
 sql_int = "select * from interval_data;"
