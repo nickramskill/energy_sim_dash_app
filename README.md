@@ -24,7 +24,7 @@ Demonstration of an interactive Python app used to simulate the net energy load 
 
 The following are screenshots for the app in this repo:
 
-![recording](screenshots/recording_1.mov)
+![recording](screenshots/recording_1.gif)
 
 ![screenshot](screenshots/screenshot_1.png)
 
