@@ -1,13 +1,13 @@
 # Energy Simulation Web Application
 
+**Check out the app:** (https://my-dash-app-npr.herokuapp.com)
+
 ### Alternative Energy Microgrid Design Toolkit
 
 Demonstration of an interactive Python app used to simulate the net energy load (e.g. residential or commercial buildings) for different combinations of alternative enrgy technologies, such as solar and fuel cells. 
 
 The goal is to determine the optimal size of solar and fuel cell systems to minimize the amount of imported energy from the grid. 
 
-**Check out the app:** (https://my-dash-app-npr.herokuapp.com)
- 
 ## Built With
 
 #### Back-end
