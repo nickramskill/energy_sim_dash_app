@@ -26,8 +26,8 @@ The goal is to determine the optimal size of solar and fuel cell systems to mini
 
 The following are screenshots for the app in this repo:
 
-![recording](screenshots/animation.gif)
-
 ![screenshot](screenshots/screenshot_1.png)
 
 ![screenshot](screenshots/screenshot_2.png)
+
+![recording](screenshots/animation.gif)
