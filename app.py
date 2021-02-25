@@ -34,11 +34,11 @@ df_int = pd.read_sql_query(sql_int, conn)
 df_int = df_int.set_index('interval_start')
 df_int = df_int.resample('30min').mean() / 10**3
 df_int['doy'] = df_int.index.dayofyear
-df_int = df_int[0:1700]
+df_int = df_int[0:1400]
 
 sql_pv = "select * from solar_sim_ref;"
 df_pv = pd.read_sql_query(sql_pv, conn)
-df_pv = df_pv[0:1700]
+df_pv = df_pv[0:1400]
 df_pv = df_pv.set_index(df_int.index)
 df_pv['doy'] = df_pv.index.dayofyear
 
