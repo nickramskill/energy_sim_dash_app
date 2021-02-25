@@ -1,6 +1,6 @@
 # Energy Simulation Web Application
 
-**Check out the app:** (https://my-dash-app-npr.herokuapp.com)
+**Check out the app:** (https://my-dash-app-npr.herokuapp.com) - please allow a few seconds to load :)
 
 ### Alternative Energy Microgrid Design Toolkit
 
